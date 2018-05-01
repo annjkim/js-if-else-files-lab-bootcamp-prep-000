@@ -12,4 +12,4 @@ if (index.height === 70) {
     console.log("Expected: 70, Received: "+index.height)
 }
 
-console.log('Here', index)
+console.log('Here', index);
